@@ -4,7 +4,7 @@ version:
   minor: 1
 branches:
   develop:
-    autodeploy_branch: dev30_upgrade
+    autodeploy_branch: dev32_upgrade
     ecrregistry: false
     build_options: -P build
 
