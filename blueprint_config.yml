@@ -1,0 +1,10 @@
+codefresh_project: TFNRegistryMS
+version:
+  major: 6
+  minor: 1
+branches:
+  develop:
+    autodeploy_branch: dev30_upgrade
+    ecrregistry: false
+    build_options: -P build
+
